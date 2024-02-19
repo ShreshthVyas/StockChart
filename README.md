@@ -29,8 +29,6 @@ Step 2
 cd frontend
 npm install
 
-cd backend
-npm install
 ```
 Step 3
 -Start Backend server
